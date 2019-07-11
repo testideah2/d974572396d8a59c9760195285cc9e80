@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns   = "http://www.w3.org/ns/widgets"
     xmlns:gap   = "http://phonegap.com/ns/1.0"
-    id          = "tmp.11298486190548417119.1562871008084.1704351667"
+    id          = "app.vsem-dam.com"
     versionCode = "10"
-    version     = "1.2.0">
+    version     = "1.3.0">
 
 <name>ТЕСТ. Всем Дам</name>
 
 <description>
-    Знакомства для секса
+    Знакомства
 </description>
 
 <author>Tadapp</author>
